@@ -1,0 +1,11 @@
+site_name: 'python-app'
+site_description: 'Main documentation for the python-app'
+repo_url: https://github.com/weihan1394/python-test-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+    - Getting started: 'docs/index.md'
